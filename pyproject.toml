@@ -1,0 +1,33 @@
+[project]
+name = "ais-skipsprediksjon"
+version = "0.1.0"
+description = "Forutsier skipsposisjoner i Trondheimsfjorden fra Kystverkets åpne AIS-data"
+requires-python = ">=3.10"
+dependencies = ["duckdb>=1.0", "numpy", "pandas>=2.0", "pyarrow>=14", "scipy"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+model = ["torch>=2.2"]
+app = ["streamlit>=1.40", "plotly>=5.24"]
+
+[project.scripts]
+ais-prepare = "ais.prepare:main"
+ais-train = "ais.train:main"
+ais-evaluate = "ais.evaluate:main"
+ais-demo-data = "ais.demo:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"app/*" = ["E501"]  # lange norske tekster i appen
