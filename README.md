@@ -29,7 +29,15 @@ Fordelt på hva skipet gjør de neste 30 minuttene (feil på 30 min):
 | Sving | 33 % | 7322 | 1733 | 1503 |
 | Fartsendring | 3 % | 3892 | 2234 | 2124 |
 | Lav fart (under 2 knop) | 7 % | 2734 | 2174 | 1278 |
-| Skip modellen aldri har sett | 17 % | 3566 | 1596 | 1029 |
+
+De resterende 28 % passer ikke i noen av gruppene (for eksempel en slak sving på 10–30 grader) og er merket «annet».
+
+Fordelt på om skipet var med i treningen (feil på 30 min):
+
+| Skip | Andel | Fysikk | Rute | GRU |
+| --- | --- | --- | --- | --- |
+| Sett i trening | 83 % | 3425 | 1392 | 989 |
+| Aldri sett | 17 % | 3566 | 1596 | 1029 |
 
 Fysikkbaselinen faller sammen så snart skipet svinger, mens GRU-en og rutebaselinen har lært hvor leia går. Hele tabellen, med konfidensintervaller for hver gruppe, ligger i [`results/results.md`](results/results.md).
 
