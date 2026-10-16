@@ -1,8 +1,8 @@
-data/
+/data/
 __pycache__/
 *.egg-info/
 .venv/
 .pytest_cache/
 .ruff_cache/
-models/
+/models/
 train.log
