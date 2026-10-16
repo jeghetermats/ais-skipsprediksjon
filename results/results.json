@@ -1,0 +1,569 @@
+[
+ {
+  "gruppe":"alle",
+  "modell":"fysikk",
+  "n":33163,
+  "horisont":10,
+  "snitt":625.4,
+  "lav":593.5,
+  "hoy":656.6
+ },
+ {
+  "gruppe":"alle",
+  "modell":"fysikk",
+  "n":33163,
+  "horisont":20,
+  "snitt":1829.8,
+  "lav":1746.1,
+  "hoy":1912.7
+ },
+ {
+  "gruppe":"alle",
+  "modell":"fysikk",
+  "n":33163,
+  "horisont":30,
+  "snitt":3448.6,
+  "lav":3299.2,
+  "hoy":3601.3
+ },
+ {
+  "gruppe":"alle",
+  "modell":"rute",
+  "n":33163,
+  "horisont":10,
+  "snitt":441.2,
+  "lav":418.8,
+  "hoy":465.2
+ },
+ {
+  "gruppe":"alle",
+  "modell":"rute",
+  "n":33163,
+  "horisont":20,
+  "snitt":904.6,
+  "lav":857.6,
+  "hoy":955.9
+ },
+ {
+  "gruppe":"alle",
+  "modell":"rute",
+  "n":33163,
+  "horisont":30,
+  "snitt":1426.8,
+  "lav":1351.3,
+  "hoy":1508.7
+ },
+ {
+  "gruppe":"alle",
+  "modell":"GRU",
+  "n":33163,
+  "horisont":10,
+  "snitt":257.9,
+  "lav":241.8,
+  "hoy":274.0
+ },
+ {
+  "gruppe":"alle",
+  "modell":"GRU",
+  "n":33163,
+  "horisont":20,
+  "snitt":584.4,
+  "lav":545.0,
+  "hoy":625.1
+ },
+ {
+  "gruppe":"alle",
+  "modell":"GRU",
+  "n":33163,
+  "horisont":30,
+  "snitt":996.1,
+  "lav":930.7,
+  "hoy":1064.1
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"fysikk",
+  "n":27537,
+  "horisont":10,
+  "snitt":615.8,
+  "lav":586.5,
+  "hoy":646.1
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"fysikk",
+  "n":27537,
+  "horisont":20,
+  "snitt":1815.4,
+  "lav":1735.2,
+  "hoy":1901.0
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"fysikk",
+  "n":27537,
+  "horisont":30,
+  "snitt":3424.7,
+  "lav":3270.3,
+  "hoy":3588.9
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"rute",
+  "n":27537,
+  "horisont":10,
+  "snitt":429.1,
+  "lav":404.4,
+  "hoy":454.2
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"rute",
+  "n":27537,
+  "horisont":20,
+  "snitt":882.6,
+  "lav":831.3,
+  "hoy":936.0
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"rute",
+  "n":27537,
+  "horisont":30,
+  "snitt":1392.2,
+  "lav":1313.1,
+  "hoy":1476.4
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"GRU",
+  "n":27537,
+  "horisont":10,
+  "snitt":257.2,
+  "lav":241.0,
+  "hoy":275.5
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"GRU",
+  "n":27537,
+  "horisont":20,
+  "snitt":583.0,
+  "lav":542.5,
+  "hoy":626.9
+ },
+ {
+  "gruppe":"skip sett i trening",
+  "modell":"GRU",
+  "n":27537,
+  "horisont":30,
+  "snitt":989.4,
+  "lav":920.1,
+  "hoy":1061.4
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"fysikk",
+  "n":5626,
+  "horisont":10,
+  "snitt":672.2,
+  "lav":603.3,
+  "hoy":761.3
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"fysikk",
+  "n":5626,
+  "horisont":20,
+  "snitt":1900.1,
+  "lav":1743.4,
+  "hoy":2106.4
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"fysikk",
+  "n":5626,
+  "horisont":30,
+  "snitt":3565.5,
+  "lav":3271.2,
+  "hoy":3926.0
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"rute",
+  "n":5626,
+  "horisont":10,
+  "snitt":500.5,
+  "lav":437.7,
+  "hoy":581.9
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"rute",
+  "n":5626,
+  "horisont":20,
+  "snitt":1012.3,
+  "lav":885.8,
+  "hoy":1172.0
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"rute",
+  "n":5626,
+  "horisont":30,
+  "snitt":1595.9,
+  "lav":1401.5,
+  "hoy":1834.4
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"GRU",
+  "n":5626,
+  "horisont":10,
+  "snitt":261.4,
+  "lav":234.2,
+  "hoy":293.4
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"GRU",
+  "n":5626,
+  "horisont":20,
+  "snitt":591.1,
+  "lav":519.8,
+  "hoy":671.0
+ },
+ {
+  "gruppe":"nye skip",
+  "modell":"GRU",
+  "n":5626,
+  "horisont":30,
+  "snitt":1028.9,
+  "lav":901.6,
+  "hoy":1161.5
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"fysikk",
+  "n":9658,
+  "horisont":10,
+  "snitt":158.0,
+  "lav":149.2,
+  "hoy":166.7
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"fysikk",
+  "n":9658,
+  "horisont":20,
+  "snitt":392.0,
+  "lav":373.4,
+  "hoy":411.3
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"fysikk",
+  "n":9658,
+  "horisont":30,
+  "snitt":575.1,
+  "lav":553.5,
+  "hoy":595.8
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"rute",
+  "n":9658,
+  "horisont":10,
+  "snitt":366.3,
+  "lav":344.6,
+  "hoy":388.9
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"rute",
+  "n":9658,
+  "horisont":20,
+  "snitt":746.6,
+  "lav":703.5,
+  "hoy":793.7
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"rute",
+  "n":9658,
+  "horisont":30,
+  "snitt":1147.8,
+  "lav":1082.1,
+  "hoy":1218.7
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"GRU",
+  "n":9658,
+  "horisont":10,
+  "snitt":129.6,
+  "lav":124.0,
+  "hoy":135.7
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"GRU",
+  "n":9658,
+  "horisont":20,
+  "snitt":303.0,
+  "lav":288.8,
+  "hoy":318.3
+ },
+ {
+  "gruppe":"situasjon: rett kurs",
+  "modell":"GRU",
+  "n":9658,
+  "horisont":30,
+  "snitt":517.3,
+  "lav":493.2,
+  "hoy":543.9
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"fysikk",
+  "n":10971,
+  "horisont":10,
+  "snitt":1195.3,
+  "lav":1148.9,
+  "hoy":1243.3
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"fysikk",
+  "n":10971,
+  "horisont":20,
+  "snitt":3710.1,
+  "lav":3594.6,
+  "hoy":3829.3
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"fysikk",
+  "n":10971,
+  "horisont":30,
+  "snitt":7321.8,
+  "lav":7098.7,
+  "hoy":7546.5
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"rute",
+  "n":10971,
+  "horisont":10,
+  "snitt":516.9,
+  "lav":481.5,
+  "hoy":557.8
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"rute",
+  "n":10971,
+  "horisont":20,
+  "snitt":1059.3,
+  "lav":987.9,
+  "hoy":1145.8
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"rute",
+  "n":10971,
+  "horisont":30,
+  "snitt":1732.6,
+  "lav":1615.6,
+  "hoy":1873.8
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"GRU",
+  "n":10971,
+  "horisont":10,
+  "snitt":395.7,
+  "lav":369.6,
+  "hoy":425.4
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"GRU",
+  "n":10971,
+  "horisont":20,
+  "snitt":869.0,
+  "lav":801.5,
+  "hoy":947.6
+ },
+ {
+  "gruppe":"situasjon: sving",
+  "modell":"GRU",
+  "n":10971,
+  "horisont":30,
+  "snitt":1503.0,
+  "lav":1390.0,
+  "hoy":1635.8
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"fysikk",
+  "n":965,
+  "horisont":10,
+  "snitt":795.2,
+  "lav":701.1,
+  "hoy":893.0
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"fysikk",
+  "n":965,
+  "horisont":20,
+  "snitt":2146.2,
+  "lav":1969.1,
+  "hoy":2336.9
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"fysikk",
+  "n":965,
+  "horisont":30,
+  "snitt":3891.7,
+  "lav":3653.0,
+  "hoy":4148.2
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"rute",
+  "n":965,
+  "horisont":10,
+  "snitt":789.8,
+  "lav":722.5,
+  "hoy":863.6
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"rute",
+  "n":965,
+  "horisont":20,
+  "snitt":1640.3,
+  "lav":1497.9,
+  "hoy":1796.4
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"rute",
+  "n":965,
+  "horisont":30,
+  "snitt":2233.9,
+  "lav":2024.8,
+  "hoy":2454.3
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"GRU",
+  "n":965,
+  "horisont":10,
+  "snitt":553.3,
+  "lav":499.2,
+  "hoy":606.8
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"GRU",
+  "n":965,
+  "horisont":20,
+  "snitt":1346.1,
+  "lav":1229.6,
+  "hoy":1474.1
+ },
+ {
+  "gruppe":"situasjon: fartsendring",
+  "modell":"GRU",
+  "n":965,
+  "horisont":30,
+  "snitt":2124.0,
+  "lav":1945.5,
+  "hoy":2320.6
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"fysikk",
+  "n":2438,
+  "horisont":10,
+  "snitt":778.5,
+  "lav":636.2,
+  "hoy":955.4
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"fysikk",
+  "n":2438,
+  "horisont":20,
+  "snitt":1752.2,
+  "lav":1439.0,
+  "hoy":2117.1
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"fysikk",
+  "n":2438,
+  "horisont":30,
+  "snitt":2733.7,
+  "lav":2253.6,
+  "hoy":3271.3
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"rute",
+  "n":2438,
+  "horisont":10,
+  "snitt":696.8,
+  "lav":546.1,
+  "hoy":839.3
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"rute",
+  "n":2438,
+  "horisont":20,
+  "snitt":1420.4,
+  "lav":1130.9,
+  "hoy":1706.3
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"rute",
+  "n":2438,
+  "horisont":30,
+  "snitt":2174.3,
+  "lav":1738.3,
+  "hoy":2611.7
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"GRU",
+  "n":2438,
+  "horisont":10,
+  "snitt":325.7,
+  "lav":268.0,
+  "hoy":389.6
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"GRU",
+  "n":2438,
+  "horisont":20,
+  "snitt":755.2,
+  "lav":616.8,
+  "hoy":900.9
+ },
+ {
+  "gruppe":"situasjon: lav fart",
+  "modell":"GRU",
+  "n":2438,
+  "horisont":30,
+  "snitt":1278.3,
+  "lav":1042.5,
+  "hoy":1526.6
+ }
+]
